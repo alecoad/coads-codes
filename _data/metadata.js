@@ -1,8 +1,8 @@
 module.exports = {
-	title: "Coad's Codes | A Blog",
+	title: "Coad's Codes",
 	url: "https://coadscodes.dev/",
 	language: "en",
-	description: "I am writing about my experiences in computer science: coding, web programming, software development, cybersecurity, and whatever else may fall under the realm of seeing what happens when you tap the right keys in the right order on a laptop.",
+	description: "I write about my explorations in computer science, coding, web programming, software development, and cybersecurity.",
 	author: {
 		name: "Andrew Coad",
 		email: "andrewlecoad@gmail.com",
