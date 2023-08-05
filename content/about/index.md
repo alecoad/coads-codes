@@ -6,4 +6,4 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+I write about problems that I find solutions to while learning to code. Welcome to Coad's Codes.
